@@ -1,0 +1,9 @@
+Flask
+Flask-MySQLdb
+Werkzeug
+opencv-python
+tensorflow
+keras
+numpy
+matplotlib
+Pillow
